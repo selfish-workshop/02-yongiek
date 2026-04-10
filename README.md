@@ -1,6 +1,6 @@
 # Neorati AI Space
 
-Physical AI, Edge AI, Agentica AI 분야의 주요 뉴스를 클리핑하고 분석 보고서를 작성·공유하는 AI 전문 뉴스레터
+Physical AI, Edge AI, Agentic AI 분야의 주요 뉴스를 클리핑하고 분석 보고서를 작성·공유하는 AI 전문 뉴스레터
 
 ## 프로젝트 정보
 - **유형**: AI 뉴스레터 / 콘텐츠 플랫폼
